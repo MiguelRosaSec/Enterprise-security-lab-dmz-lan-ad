@@ -1,4 +1,9 @@
 # Enterprise-security-lab-dmz-lan-ad
+![Estado](https://img.shields.io/badge/Proyecto-Completado-success)
+![Tipo](https://img.shields.io/badge/Enfoque-Híbrido-blue)
+![Entorno](https://img.shields.io/badge/Entorno-Laboratorio_Aislado-lightgrey)
+
+
 Simulación de infraestructura empresarial segmentada con explotación y fortificación de Active Directory
 
 ##  Arquitectura del Laboratorio
@@ -127,6 +132,19 @@ El proyecto demuestra cómo:
 - Análisis de impacto empresarial
 
 ---
+
+---
+
+## Lecciones Aprendidas
+
+- La segmentación de red mal implementada no impide el movimiento lateral si existen credenciales reutilizadas.
+- Docker mal configurado (modo privilegiado + bind mounts) puede convertirse en puerta de entrada al host.
+- Un único servicio innecesario (WebDAV) puede ser suficiente para comprometer un dominio completo.
+- Active Directory amplifica los errores de configuración debido a su modelo centralizado.
+- La defensa no debe centrarse en bloquear exploits, sino en reducir superficie de ataque y privilegios.
+
+Este laboratorio refuerza la importancia del principio de mínimo privilegio y la segmentación efectiva como pilares de la seguridad empresarial.
+
 
 ## Aviso Legal
 
