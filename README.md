@@ -37,6 +37,19 @@ Se ejecutó una cadena de ataque completa siguiendo metodología alineada con PT
 
 Posteriormente, se aplicaron medidas de mitigación y hardening siguiendo buenas prácticas de la industria (CIS Benchmarks, Microsoft Security Baselines, OWASP).
 
+## Tecnologías Utilizadas
+
+| Categoría | Tecnología |
+|-----------|------------|
+| Virtualización | VMware |
+| Contenedores | Docker |
+| Sistemas Linux | Ubuntu Server |
+| Sistemas Windows | Windows Server 2022, Windows 10 |
+| Directorio | Active Directory |
+| Base de Datos | MySQL / MariaDB |
+| Lenguajes | PHP |
+| Herramientas Seguridad | Kali Linux, Impacket, Metasploit |
+
 ---
 
 ## Arquitectura de Red
