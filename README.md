@@ -1,5 +1,11 @@
 # Enterprise-security-lab-dmz-lan-ad
 Simulación de infraestructura empresarial segmentada con explotación y fortificación de Active Directory
+
+## 🗺️ Arquitectura del Laboratorio
+
+![Arquitectura del laboratorio](Imagenes/Arquitectura-red.png)
+
+
 # Laboratorio de Seguridad Empresarial  
 ## Segmentación DMZ – LAN – Active Directory  
 ### Explotación Controlada y Fortificación de Infraestructura
