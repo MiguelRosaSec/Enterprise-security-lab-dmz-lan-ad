@@ -1,9 +1,13 @@
 # Enterprise-security-lab-dmz-lan-ad
 Simulación de infraestructura empresarial segmentada con explotación y fortificación de Active Directory
 
-## 🗺️ Arquitectura del Laboratorio
+##  Arquitectura del Laboratorio
 
 ![Arquitectura del laboratorio](Imagenes/Arquitectura-red.png)
+
+##  Flujo Simplificado de la Cadena de Ataque
+
+![Flujo de ataque](Imagenes/flujo-ataque.png)
 
 
 # Laboratorio de Seguridad Empresarial  
