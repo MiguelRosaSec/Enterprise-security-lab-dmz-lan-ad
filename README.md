@@ -4,7 +4,7 @@
 ![Entorno](https://img.shields.io/badge/Entorno-Laboratorio_Aislado-lightgrey)
 
 
-Simulación de infraestructura empresarial segmentada con explotación y fortificación de Active Directory
+Simulación de infraestructura empresarial segmentada con explotación y hardening
 
 ##  Arquitectura del Laboratorio
 
